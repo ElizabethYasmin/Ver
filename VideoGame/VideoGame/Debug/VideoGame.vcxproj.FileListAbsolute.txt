@@ -1,0 +1,7 @@
+C:\Users\acer\source\repos\VideoGame\VideoGame\Debug\VideoGame.vcxprojAssemblyReference.cache
+C:\Users\acer\source\repos\VideoGame\VideoGame\Debug\VideoGame.MyForm.resources
+C:\Users\acer\source\repos\VideoGame\VideoGame\Debug\VideoGame.vcxproj.GenerateResource.cache
+C:\Users\acer\source\repos\EEEEEEEEEEEEEEEEEEEEEEE\VideoGame\VideoGame\Debug\VideoGame.vcxprojAssemblyReference.cache
+C:\Users\acer\source\repos\EEEEEEEEEEEEEEEEEEEEEEE\VideoGame\VideoGame\Debug\VideoGame.MyForm.resources
+C:\Users\acer\source\repos\EEEEEEEEEEEEEEEEEEEEEEE\VideoGame\VideoGame\Debug\VideoGame.vcxproj.GenerateResource.cache
+C:\Users\acer\source\repos\VideoGame\VideoGame\Debug\VideoGame.MyForm1.resources
